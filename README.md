@@ -49,6 +49,11 @@ This project is an Excel-based Employee Performance Dashboard designed to track 
 
 - Employee Performance Dashboard.xlsm
 
+## Summary Report
+<img width="1450" height="752" alt="excel2" src="https://github.com/user-attachments/assets/da9361af-e62f-4d3a-b75d-05b54014d374" />
+
+## Efficiency Analysis
+<img width="1721" height="807" alt="excel3" src="https://github.com/user-attachments/assets/5f92233b-921b-4a64-8bd9-d1bdc58d57c2" />
 
 
 
