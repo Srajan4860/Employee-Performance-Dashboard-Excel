@@ -4,6 +4,9 @@
 
 This project is an Excel-based Employee Performance Dashboard designed to track employee productivity, working hours, break durations, and overall performance. The dashboard provides a centralized view of workforce performance and helps identify productivity trends across employees.
 
+## Dashboard Preview
+<img width="1352" height="775" alt="excel1" src="https://github.com/user-attachments/assets/fd21800d-221b-4d6e-945b-059edf4e1ba9" />
+
 ## Tools & Technologies
 
 - Microsoft Excel
@@ -12,6 +15,12 @@ This project is an Excel-based Employee Performance Dashboard designed to track 
 - Pivot Charts
 - Conditional Formatting
 - Data Validation
+
+## Business Impact
+ - Reduced manual reporting effort through automation
+ - Improved visibility into employee productivity metrics
+ - Enabled faster identification of performance trends
+ - Provided a centralized dashboard for workforce monitoring
 
 ## Features
 
@@ -41,7 +50,7 @@ This project is an Excel-based Employee Performance Dashboard designed to track 
 - Employee Performance Dashboard.xlsm
 
 
-## Dashboard Preview
+
 
 
 
