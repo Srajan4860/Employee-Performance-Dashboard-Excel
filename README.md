@@ -7,6 +7,8 @@ This project is an Excel-based Employee Performance Dashboard designed to track 
 ## Dashboard Preview
 <img width="1352" height="775" alt="excel1" src="https://github.com/user-attachments/assets/fd21800d-221b-4d6e-945b-059edf4e1ba9" />
 
+Interactive Excel dashboard developed using VBA Macros, Pivot Tables, and KPI reporting to analyze employee productivity and performance metrics.
+
 ## Tools & Technologies
 
 - Microsoft Excel
